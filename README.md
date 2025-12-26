@@ -44,6 +44,4 @@ Trainees ↔ Companies ↔ Training orgs | Workflow | Real-time notifications
 
 ---
 
-![KarimImad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KarimImad&show_icons=true&theme=radical&hide_border=true)
-
 **#react #html #css #javascript #tailwind #php #fullstack #RNCP**
