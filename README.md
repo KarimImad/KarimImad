@@ -8,8 +8,8 @@
 
 ## 🚀 Featured Projects
 
-**Paula's Nails Booking**  
-React + Vite + Tailwind + MySQL | Full CRUD | Admin Dashboard | Responsive
+**Paula's Nails**  
+React + Vite + Tailwind + Node/Express + Postgres | Full CRUD | Admin Dashboard | Responsive
 
 **EcommerceProject**  
 PHP + MySQL | User Auth | Product Catalog | Shopping Cart | Admin Panel
