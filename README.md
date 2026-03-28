@@ -38,7 +38,7 @@ Trainees ↔ Companies ↔ Training orgs | Workflow | Real-time notifications
 
 ## 🎯 Open to work
 **Junior React/Full-Stack positions**  
-📍 **France** | 🚀 **Available January 2026**
+📍 **France** | 🚀 **Available May 2026**
 
 💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karim-imad-8086a41b8/)
 
